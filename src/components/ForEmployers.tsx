@@ -113,7 +113,7 @@ export default function ForEmployers({ scrollToSection }: ForEmployersProps) {
                 </div>
                 <div>
                   <div className="text-black mb-1" style={{ fontSize: '32px', fontWeight: '700' }}>Expertise</div>
-                  <div className="text-gray-600" style={{ fontSize: '14px' }}>Hospitality, Security</div>
+                  <div className="text-gray-600" style={{ fontSize: '14px' }}>Catering and Hospitality, Security, Healthcare</div>
                 </div>
               </div>
             </div>
